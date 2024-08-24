@@ -23,7 +23,7 @@ export default function Discover() {
                     </div>
                     <div className='row  pt-4'>
                     <div className='ticks col-sm-2 m-2'><i className="fa-solid fa-check fa-2xl"></i></div>
-                        <div className='col-10'>
+                        <div className='col-sm-10'>
                             <h1 className='fs-4 '>Engaging Group Discussion</h1>
                             <p className='  fs-6 opacity-75'>Lorem ipsum, Lorem ipsum dolor sit amet.dolor sit Lorem ipsum dolor sit. libero soluta possimus sequi illum tenetur.</p>
                         </div>
