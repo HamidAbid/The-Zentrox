@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/The-Zentrox/static/css/main.0e7acf89.css",
-    "main.js": "/The-Zentrox/static/js/main.f60ec706.js",
+    "main.js": "/The-Zentrox/static/js/main.416441b0.js",
     "static/js/453.5e560239.chunk.js": "/The-Zentrox/static/js/453.5e560239.chunk.js",
     "static/media/office.jpg": "/The-Zentrox/static/media/office.bf5a817e78eef40183b4.jpg",
     "static/media/logo.png": "/The-Zentrox/static/media/logo.e61ef151baba1756b1e1.png",
@@ -26,11 +26,11 @@
     "static/media/project6.webp": "/The-Zentrox/static/media/project6.cdfef218e9dec4e79809.webp",
     "index.html": "/The-Zentrox/index.html",
     "main.0e7acf89.css.map": "/The-Zentrox/static/css/main.0e7acf89.css.map",
-    "main.f60ec706.js.map": "/The-Zentrox/static/js/main.f60ec706.js.map",
+    "main.416441b0.js.map": "/The-Zentrox/static/js/main.416441b0.js.map",
     "453.5e560239.chunk.js.map": "/The-Zentrox/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e7acf89.css",
-    "static/js/main.f60ec706.js"
+    "static/js/main.416441b0.js"
   ]
 }
