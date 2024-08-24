@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/The-Zentrox/static/css/main.0e7acf89.css",
+    "main.js": "/The-Zentrox/static/js/main.f60ec706.js",
+    "static/js/453.5e560239.chunk.js": "/The-Zentrox/static/js/453.5e560239.chunk.js",
+    "static/media/office.jpg": "/The-Zentrox/static/media/office.bf5a817e78eef40183b4.jpg",
+    "static/media/logo.png": "/The-Zentrox/static/media/logo.e61ef151baba1756b1e1.png",
+    "static/media/profile3.jpg": "/The-Zentrox/static/media/profile3.674178ccd92f43143a89.jpg",
+    "static/media/about1.jpg": "/The-Zentrox/static/media/about1.42f4254573f542f5b538.jpg",
+    "static/media/profile2.jpg": "/The-Zentrox/static/media/profile2.699f7e59390fd8923ebb.jpg",
+    "static/media/profile1.jpg": "/The-Zentrox/static/media/profile1.ad36535be1ddedd8489f.jpg",
+    "static/media/contact.png": "/The-Zentrox/static/media/contact.62f5c3892e4636bed590.png",
+    "static/media/about2.jpg": "/The-Zentrox/static/media/about2.6b83f7338b030216f862.jpg",
+    "static/media/imgbar.png": "/The-Zentrox/static/media/imgbar.44cdc04953aa533ca4b5.png",
+    "static/media/main.webp": "/The-Zentrox/static/media/main.9635550ea4ac4d3c5cc3.webp",
+    "static/media/profile4.jpg": "/The-Zentrox/static/media/profile4.5faec221cf5d56aa8bc8.jpg",
+    "static/media/feature2.jpg": "/The-Zentrox/static/media/feature2.2769c8252c2acb98b4a3.jpg",
+    "static/media/feature3.jpg": "/The-Zentrox/static/media/feature3.3ae90960430a58499616.jpg",
+    "static/media/feature1.jpg": "/The-Zentrox/static/media/feature1.6794dca0c9ca5dd3da25.jpg",
+    "static/media/certificate1.jpg": "/The-Zentrox/static/media/certificate1.d11d0a3cda92c662cf11.jpg",
+    "static/media/project2.webp": "/The-Zentrox/static/media/project2.9be352700a766fa33a3a.webp",
+    "static/media/project5.webp": "/The-Zentrox/static/media/project5.9aaf8f9ea7e0ad66d93a.webp",
+    "static/media/project1.webp": "/The-Zentrox/static/media/project1.6fd1a092cbee5b438b7d.webp",
+    "static/media/project4.webp": "/The-Zentrox/static/media/project4.9bb9dd7922b925099ac3.webp",
+    "static/media/project3.webp": "/The-Zentrox/static/media/project3.6e4cbb117dd999e7228c.webp",
+    "static/media/project6.webp": "/The-Zentrox/static/media/project6.cdfef218e9dec4e79809.webp",
+    "index.html": "/The-Zentrox/index.html",
+    "main.0e7acf89.css.map": "/The-Zentrox/static/css/main.0e7acf89.css.map",
+    "main.f60ec706.js.map": "/The-Zentrox/static/js/main.f60ec706.js.map",
+    "453.5e560239.chunk.js.map": "/The-Zentrox/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e7acf89.css",
+    "static/js/main.f60ec706.js"
+  ]
+}
